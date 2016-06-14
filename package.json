@@ -1,0 +1,20 @@
+{
+  "name": "metadata-retriever",
+  "version": "0.0.1",
+  "description": "Retrieves the metadata of a given URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayrex/metadata-retriever.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayrex/metadata-retriever/issues"
+  },
+  "homepage": "https://github.com/wayrex/metadata-retriever#readme",
+}
